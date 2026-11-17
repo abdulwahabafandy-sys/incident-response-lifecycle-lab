@@ -1,5 +1,7 @@
 # Incident Response Lifecycle Simulation — Phishing & Malware Investigation
 
+> Hands-on incident response lab using Kali Linux, Ubuntu, Wireshark, and ClamAV to investigate security threats, analyze network traffic, perform containment, and verify system recovery.
+
 **Hands-on cybersecurity lab | Kali Linux · Ubuntu · Wireshark · ClamAV · VMware Workstation**
 
 ## Overview
